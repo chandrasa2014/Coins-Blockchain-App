@@ -11,22 +11,8 @@ To create a BND, we need to create a suitable project structure on disk. We will
 $ yo hyperledger-composer
 This will shoot out a series of questions as follows. You’ll be required to use your arrow keys to navigate through the answers.
 
-Step 1: Outline your Business Network
-Our Business Network Definition (BND) consists of the data model, transaction logic, and access control rules. The data model and access control rules are coded in domain specific language (which is very simple to catch up with). The transaction logic will be coded in JavaScript.
-To create a BND, we need to create a suitable project structure on disk. We will create a skeleton business network using Yeoman. To create a project structure, open your terminal and run the following command:
-$ yo hyperledger-composer
-This will shoot out a series of questions as follows. You’ll be required to use your arrow keys to navigate through the answers.
- 
-
-
  ![image](https://user-images.githubusercontent.com/23340083/40094508-79b02baa-5895-11e8-935b-865de2c3e2a3.png)
  
-
-
- 
-
- 
-
 Step 2.1: Coding out Business Network (models/coins.cto)
  
 ![image](https://user-images.githubusercontent.com/23340083/40094753-c41ffdf4-5896-11e8-8bb7-9cabab7421a8.png)
