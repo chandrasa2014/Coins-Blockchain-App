@@ -24,7 +24,9 @@ In this file, we’ll add transaction logic in JavaScript.
 
  
 ![image](https://user-images.githubusercontent.com/23340083/40094759-cb765b5c-5896-11e8-9f36-2b615467e902.png)
-
+![image](https://user-images.githubusercontent.com/23340083/40094765-d549a9c2-5896-11e8-9cf0-ffac6b974d8a.png)
+![image](https://user-images.githubusercontent.com/23340083/40094768-dca2ddc4-5896-11e8-9094-488814ce19ee.png)
+![image](https://user-images.githubusercontent.com/23340083/40094775-e4572dfe-5896-11e8-96ac-28925f3d440d.png)
 Step 3: Generate the Business Network Archive (BNA)
 Now that the business network has been defined, it must be packaged into a deployable business network archive (.bna) file.
 Step 3.1: Navigate into the test-bank app in your terminal.
@@ -48,9 +50,8 @@ Step 4.3: Import the network administrator identity as a usable business network
  
 Step 4.4: To check that the business network has been deployed successfully,run the following command to ping the network:
  
-![image](https://user-images.githubusercontent.com/23340083/40094765-d549a9c2-5896-11e8-9cf0-ffac6b974d8a.png)
-![image](https://user-images.githubusercontent.com/23340083/40094768-dca2ddc4-5896-11e8-9094-488814ce19ee.png)
-![image](https://user-images.githubusercontent.com/23340083/40094775-e4572dfe-5896-11e8-96ac-28925f3d440d.png)
+
+
 STEP 5: Expose a RESTful API
 To create a RESTful API from your command line, run the following command:
 $ composer-rest-server
