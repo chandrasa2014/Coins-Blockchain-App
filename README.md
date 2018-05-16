@@ -64,7 +64,9 @@ Step 6: Angular Front End
 To create Angular scaffolding automatically, run the following command in the coins-network folder:
 $ yo
 
+![image](https://user-images.githubusercontent.com/23340083/40095154-703244de-5898-11e8-810d-f176b62956d8.png)
 
+![image](https://user-images.githubusercontent.com/23340083/40095156-75cfec3e-5898-11e8-9d42-a740c3fd1603.png)
 
 
 
