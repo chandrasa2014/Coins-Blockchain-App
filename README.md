@@ -22,6 +22,9 @@ In this file, we’ll add transaction logic in JavaScript.
 
 
 
+ 
+![image](https://user-images.githubusercontent.com/23340083/40094759-cb765b5c-5896-11e8-9f36-2b615467e902.png)
+
 Step 3: Generate the Business Network Archive (BNA)
 Now that the business network has been defined, it must be packaged into a deployable business network archive (.bna) file.
 Step 3.1: Navigate into the test-bank app in your terminal.
@@ -30,9 +33,6 @@ $ composer archive create -t dir -n .
 
 
 This creates a .bna file in the coins-network folder.
- 
-![image](https://user-images.githubusercontent.com/23340083/40094759-cb765b5c-5896-11e8-9f36-2b615467e902.png)
-
 Step 4: Deploy the Business Network Archive file on the Fabric
 Step 4.1: Install composer runtime
 
