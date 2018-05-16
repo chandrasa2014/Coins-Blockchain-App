@@ -1,13 +1,13 @@
 # Coins-Blockchain-App
-Coins Blockchain App
+
+
+Imp: PreRequisites Steps: 
 First install the Hyperledger composer. Then install the development environment.
-There’s no need to start Playground while you’re installing the environment.
-Make sure docker is running, and when you run ./startFabric.sh it’s going to take a couple of minutes. So be patient.
-Now that your machine is all set, we can start coding!
+./startFabric.sh it’s going to take a couple of minutes. So be patient.
+
 
 Step 1: Create Business Network
-Business Network Definition (BND) consists of the data model, transaction logic, and access control rules. The data model and access control rules are coded in domain specific language (which is very simple to catch up with). The transaction logic will be coded in JavaScript.
-To create a BND, we need to create a suitable project structure on disk. We will create a skeleton business network using Yeoman. To create a project structure, open your terminal and run the following command:
+
 $ yo hyperledger-composer
 This will shoot out a series of questions as follows. You’ll be required to use your arrow keys to navigate through the answers.
 
